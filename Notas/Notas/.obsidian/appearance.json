@@ -1,0 +1,9 @@
+{
+  "accentColor": "#ff0000",
+  "theme": "obsidian",
+  "cssTheme": "costum",
+  "enabledCssSnippets": [
+    "costum",
+    "Habit Traker"
+  ]
+}

@@ -1,0 +1,99 @@
+:root {
+    --background-primary: #1E1E1E;
+    --background-secondary: #2C2C2C;
+    --background-tertiary: #333333;
+    --background-quaternary: #383838;
+    --text-normal: #FFFFFF;
+    --text-muted: #AAAAAA;
+    --text-link: #0A84FF;
+    --text-accent: #5AC8FA;
+    --border-color: #444444;
+    --scrollbar-bg: #2C2C2C;
+    --scrollbar-thumb: #525252;
+    --code-bg: #2A2A2A;
+    --code-border: #3C3C3C;
+    --selection-bg: #44475A;
+    --button-bg: #444444;
+    --button-hover-bg: #555555;
+    --button-active-bg: #666666;
+    --input-bg: #2A2A2A;
+    --input-border: #3C3C3C;
+}
+
+/* Backgrounds */
+body {
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.workspace, .workspace-split {
+    background-color: var(--background-primary);
+}
+
+/* Text */
+p, span, li, div, a, h1, h2, h3, h4, h5, h6 {
+    color: var(--text-normal);
+}
+
+/* Links */
+a {
+    color: var(--text-link);
+}
+
+a:hover {
+    color: var(--text-accent);
+    text-decoration: underline;
+}
+
+/* Code Blocks */
+code, pre {
+    background-color: var(--code-bg);
+    border: 1px solid var(--code-border);
+    color: var(--text-normal);
+}
+
+/* Selections */
+::selection {
+    background: var(--selection-bg);
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    background-color: var(--scrollbar-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb);
+}
+
+/* Buttons */
+button {
+    background-color: var(--button-bg);
+    color: var(--text-normal);
+    border: none;
+}
+
+button:hover {
+    background-color: var(--button-hover-bg);
+}
+
+button:active {
+    background-color: var(--button-active-bg);
+}
+
+/* Inputs */
+input, textarea {
+    background-color: var(--input-bg);
+    border: 1px solid var(--input-border);
+    color: var(--text-normal);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-normal);
+}
+
+/* Borders */
+hr {
+    border-color: var(--border-color);
+}

@@ -1,0 +1,1 @@
+https://obsidianninja.com/obsidian-daily-notes-template/

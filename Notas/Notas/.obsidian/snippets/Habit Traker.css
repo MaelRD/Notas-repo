@@ -1,0 +1,36 @@
+ 
+/* Estilos generales para la tabla */
+table.habit-tracker {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/* Estilos para las celdas */
+table.habit-tracker th, table.habit-tracker td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+/* Estilos para los encabezados */
+table.habit-tracker th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilos para las celdas de los días completados */
+table.habit-tracker td.completed {
+    background-color: #8bc34a;
+    color: white;
+}
+
+/* Estilos para las celdas de los días no completados */
+table.habit-tracker td.not-completed {
+    background-color: #f44336;
+    color: white;
+}
+
+/* Estilos para las celdas vacías */
+table.habit-tracker td.empty {
+    background-color: #ffffff;
+}

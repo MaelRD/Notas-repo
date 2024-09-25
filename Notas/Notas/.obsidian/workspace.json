@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "9319a180fe84e70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42aeb59aa8d41e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e570f9c37c1f426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Lenguajes/JAVASCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97465d0059b8f0a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a1e62372958853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad997e90fef93b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16f02a45e16a27fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f55640cc046b5126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ade5c7494b440e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libros/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "33fbeb44489bea01",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbcdaf43e79f77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0487074a6f6cc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programacion/Lenguajes/JAVASCRIPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78d27aa290b7fc3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programacion/Lenguajes/JAVASCRIPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f534f8f0d55992a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6dd9da7a6b5549d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programacion/Lenguajes/JAVASCRIPT.md"
+              }
+            }
+          },
+          {
+            "id": "037f576d638ed793",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7f20ad0ae469626",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bf5a87f8e9529ac",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "7e570f9c37c1f426",
+  "lastOpenFiles": [
+    "Programacion/Lenguajes/C.md",
+    "Programacion/Lenguajes/JAVASCRIPT.md",
+    "Plantillas/pantilas.md",
+    "Programacion/Explicación Método..md",
+    "Programacion/Grafo no dirigido.md",
+    "Programacion/Método Simson 3 8.md",
+    "Sin título.canvas",
+    "Programacion/Programación.md",
+    "Tutorias/Ejercicio tablas.md",
+    "Programacion/Lenguajes/HTML.md",
+    "Programacion/Lenguajes/JAVA.md",
+    "Programacion/Lenguajes/Sin título.md",
+    "Programacion/Lenguajes/PHP.md",
+    "Tutorias/Ejercicios y Practicas de PHP del 1 al 20.md",
+    "Programacion/Requerimientos de Sofware.md",
+    "Programacion/Lenguajes/PYTHON.md",
+    "Matematicas/Algebra LIneal/Algebra Lineal - Notas.md",
+    "Matematicas/Algebra LIneal/Álgebra Lineal - Kenneth Hoffman y Ray Kunze.md",
+    "Programacion/Sin título 2.md",
+    "Programacion/Sin título 1.md",
+    "Programacion/Sin título.md",
+    "Programacion/Contabilidad aplicada a la informatica.md",
+    "Fisica/Notas de Física.md",
+    "Sin título.md",
+    "Programacion/BuenasPracticas/Javadoc.md",
+    "Programacion/BuenasPracticas/Documentación de código..md",
+    "Programacion/Algoritmos/Algoritmos.md",
+    "Sin título",
+    "Sin título 5.canvas",
+    "Matematicas/Calculo",
+    "Programacion/Practicas",
+    "Ingles/Intermediate",
+    "Ingles/BASIC",
+    "Ingles",
+    "Sin título 4.canvas",
+    "Sin título 3.canvas",
+    "Sin título 2.canvas",
+    "Yo/Estoicismo",
+    "Yo/LIbros",
+    "Yo",
+    "Sin título 1.canvas",
+    "Programacion/Algoritmos",
+    "Pasted image 20240607084805.png",
+    "Pasted image 20240607083014.png",
+    "Pasted image 20240607082934.png",
+    "Pasted image 20240607082749.png",
+    "Pasted image 20240607082632.png",
+    "Pasted image 20240607082625.png",
+    "Pasted image 20240607084645.png",
+    "Pasted image 20240607084528.png",
+    "Pasted image 20240607084428.png",
+    "Pasted image 20240607084333.png",
+    "Matematicas/Sin título.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "AFN.canvas"
+  ]
+}
